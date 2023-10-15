@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ramansharma/Raman/Learning/AIProjects/MLFlowKrish/mlruns/0/2e89d38ce1894c5ca1b4400011021f15/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e89d38ce1894c5ca1b4400011021f15
+run_name: sincere-bear-204
+run_uuid: 2e89d38ce1894c5ca1b4400011021f15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697367870671
+status: 1
+tags: []
+user_id: ramansharma
